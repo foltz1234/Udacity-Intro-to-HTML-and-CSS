@@ -1,0 +1,53 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color:white;
+    font-weight: 300;
+    color: #2a1510;    
+}
+
+.thinfont{
+    font-weight: 100;
+    font-size: 60px;
+}
+
+.mutedfont{
+   color: #BCBBBB;
+}
+
+.lightborder{
+    border-color: #BCBBBB;
+}
+
+.heavyfont{
+    font-weight: 300;
+}
+
+.hrwidth{
+    border-top-width: 4px;
+    margin-top: 0px;    
+}
+
+.nomargin{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom: 25px;
+}
+
+.workpad{
+    padding-left: 30px;
+}
+
+.workfont{
+    font-size: 40px;
+}
+
+.imgfont{
+    font-size: 40px;
+}
+
+.linkfont{
+    font-size: 20px;
+}
+
+
+
